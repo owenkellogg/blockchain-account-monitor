@@ -1,0 +1,28 @@
+{
+  "name": "blockchain-monitor",
+  "version": "0.1.0",
+  "description": "Listen for transactions made to your bitcoin, dogecoin, etc daemons",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevenzeiler/blockchain-monitor.git"
+  },
+  "keywords": [
+    "blockchain",
+    "bitcoin",
+    "dogecoin"
+  ],
+  "author": "Steven Zeiler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenzeiler/blockchain-monitor/issues"
+  },
+  "homepage": "https://github.com/stevenzeiler/blockchain-monitor",
+  "dependencies": {
+    "node-dogecoin": "^0.3.9",
+    "underscore": "^1.6.0"
+  }
+}
