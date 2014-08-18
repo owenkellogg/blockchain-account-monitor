@@ -1,6 +1,6 @@
 {
   "name": "blockchain-monitor",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Listen for transactions made to your bitcoin, dogecoin, etc daemons",
   "main": "index.js",
   "scripts": {
