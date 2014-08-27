@@ -1,6 +1,6 @@
 {
   "name": "blockchain-monitor",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "description": "Listen for transactions made to your bitcoin, dogecoin, etc daemons",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/stevenzeiler/blockchain-monitor",
   "dependencies": {
     "node-dogecoin": "^0.3.9",
-    "underscore": "^1.6.0"
+    "underscore": "^1.6.0",
+    "nconf": "^0.6.9"
   }
 }

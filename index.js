@@ -1,5 +1,5 @@
 module.exports = {
-  Poller: require(__dirname+'/lib/poller.js'),
+  AccountMonitor: require(__dirname+'/lib/account_monitor.js'),
   Client: require(__dirname+'/lib/client.js')
 }
 
