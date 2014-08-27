@@ -3,7 +3,7 @@
 
 ## Installation
 
-    npm install --save blockchain-monitor
+    npm install --save blockchain-account-monitor
 
 ## Usage
 
