@@ -10,7 +10,7 @@
     const blockchain = require('blockchain-account-monitor');
 
     const monitor = new blockchain.AccountMonitor({
-      blockchainClient:  new BlockchainClient({
+      blockchainClient:  new blockchain.Client({
         host: "54.81.151.76",
         port: 443,
         user: "someRpcUser",
